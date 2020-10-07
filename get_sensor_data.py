@@ -49,4 +49,9 @@ with open('readout.csv', 'a+', newline='') as csvfile:
 
         time.sleep(1)
 
-
+# 		print('Temperature: {} degrees F'.format(temperature))
+# 		print('Humidity: {}%'.format(humidity))
+# 		print('Pressure: {}hPa'.format(pressure))
+# 		print('Altitude: {} meters'.format(altitude))
+# 		print('Gas: {} ohms'.format(gas))
+	
